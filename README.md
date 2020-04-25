@@ -1,0 +1,1 @@
+scp script.js pi@172.20.10.10:~/server

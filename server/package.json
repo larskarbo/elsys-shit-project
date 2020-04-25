@@ -1,0 +1,10 @@
+{
+    "name": "serial-socket-temp",
+    "version": "0.0.1",
+    "description": "serial to websockets",
+    "dependencies": {
+        "serialport": "^7.0.2",
+        "socket.io": "^2.1.1",
+        "ws": "^6.1.0"
+    }
+}
